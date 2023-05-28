@@ -1,0 +1,27 @@
+.calc{
+    width: 400px;
+    height: 500px;
+    background-color: black;
+    margin-left: 30%;
+}
+
+#screen{
+    width: 320px;
+    height: 50px;
+    margin-left: 35px;
+    margin-top: 30px;
+    pointer-events: none;
+
+}
+.btn{
+    width: 60px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background: darkorange;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: orangered;
+}
